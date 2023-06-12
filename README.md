@@ -17,7 +17,7 @@ Este projeto foi realizado durante as aulas e cursos da Formação em HTML e CSS
 
 ## Finalidade do projeto:
 
-O projeto possui fins meramente didáticos, prática e estudos das linguagens HTML e CSS.
+O projeto possui fins meramente didáticos, visando a prática e estudos das linguagens HTML e CSS.
 
 ## Licença
 
